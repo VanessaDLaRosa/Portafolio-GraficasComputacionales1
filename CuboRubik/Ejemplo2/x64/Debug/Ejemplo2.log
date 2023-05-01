@@ -1,27 +1,31 @@
-﻿  graphicsclass.cpp
-D:\FCFM\GRAFICAS1\Ejemplo2\Ejemplo2\graphicsclass.cpp(140,30): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
-D:\FCFM\GRAFICAS1\Ejemplo2\Ejemplo2\graphicsclass.cpp(141,16): warning C4305: '+=': truncamiento de 'double' a 'float'
+﻿  cameraclass.cpp
+A:\FCFM\Graficas\PORTAFOLIO\Portafolgio-GraficasComputacionales1\CuboRubik\Ejemplo2\cameraclass.cpp(153,15): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+A:\FCFM\Graficas\PORTAFOLIO\Portafolgio-GraficasComputacionales1\CuboRubik\Ejemplo2\cameraclass.cpp(162,15): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  graphicsclass.cpp
+A:\FCFM\Graficas\PORTAFOLIO\Portafolgio-GraficasComputacionales1\CuboRubik\Ejemplo2\graphicsclass.cpp(140,30): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+A:\FCFM\Graficas\PORTAFOLIO\Portafolgio-GraficasComputacionales1\CuboRubik\Ejemplo2\graphicsclass.cpp(141,16): warning C4305: '+=': truncamiento de 'double' a 'float'
+  inputclass.cpp
   main.cpp
   modelclass.cpp
   openglclass.cpp
-D:\FCFM\GRAFICAS1\Ejemplo2\Ejemplo2\openglclass.cpp(581,20): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-D:\FCFM\GRAFICAS1\Ejemplo2\Ejemplo2\openglclass.cpp(587,20): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-D:\FCFM\GRAFICAS1\Ejemplo2\Ejemplo2\openglclass.cpp(606,25): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-D:\FCFM\GRAFICAS1\Ejemplo2\Ejemplo2\openglclass.cpp(606,46): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-D:\FCFM\GRAFICAS1\Ejemplo2\Ejemplo2\openglclass.cpp(606,72): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-D:\FCFM\GRAFICAS1\Ejemplo2\Ejemplo2\openglclass.cpp(606,92): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-D:\FCFM\GRAFICAS1\Ejemplo2\Ejemplo2\openglclass.cpp(616,25): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-D:\FCFM\GRAFICAS1\Ejemplo2\Ejemplo2\openglclass.cpp(616,48): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-D:\FCFM\GRAFICAS1\Ejemplo2\Ejemplo2\openglclass.cpp(616,84): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-D:\FCFM\GRAFICAS1\Ejemplo2\Ejemplo2\openglclass.cpp(616,107): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-D:\FCFM\GRAFICAS1\Ejemplo2\Ejemplo2\openglclass.cpp(626,36): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-D:\FCFM\GRAFICAS1\Ejemplo2\Ejemplo2\openglclass.cpp(626,57): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-D:\FCFM\GRAFICAS1\Ejemplo2\Ejemplo2\openglclass.cpp(626,83): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
-D:\FCFM\GRAFICAS1\Ejemplo2\Ejemplo2\openglclass.cpp(626,103): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+A:\FCFM\Graficas\PORTAFOLIO\Portafolgio-GraficasComputacionales1\CuboRubik\Ejemplo2\openglclass.cpp(581,20): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+A:\FCFM\Graficas\PORTAFOLIO\Portafolgio-GraficasComputacionales1\CuboRubik\Ejemplo2\openglclass.cpp(587,20): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+A:\FCFM\Graficas\PORTAFOLIO\Portafolgio-GraficasComputacionales1\CuboRubik\Ejemplo2\openglclass.cpp(606,25): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+A:\FCFM\Graficas\PORTAFOLIO\Portafolgio-GraficasComputacionales1\CuboRubik\Ejemplo2\openglclass.cpp(606,46): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+A:\FCFM\Graficas\PORTAFOLIO\Portafolgio-GraficasComputacionales1\CuboRubik\Ejemplo2\openglclass.cpp(606,72): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+A:\FCFM\Graficas\PORTAFOLIO\Portafolgio-GraficasComputacionales1\CuboRubik\Ejemplo2\openglclass.cpp(606,92): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+A:\FCFM\Graficas\PORTAFOLIO\Portafolgio-GraficasComputacionales1\CuboRubik\Ejemplo2\openglclass.cpp(616,25): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+A:\FCFM\Graficas\PORTAFOLIO\Portafolgio-GraficasComputacionales1\CuboRubik\Ejemplo2\openglclass.cpp(616,48): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+A:\FCFM\Graficas\PORTAFOLIO\Portafolgio-GraficasComputacionales1\CuboRubik\Ejemplo2\openglclass.cpp(616,84): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+A:\FCFM\Graficas\PORTAFOLIO\Portafolgio-GraficasComputacionales1\CuboRubik\Ejemplo2\openglclass.cpp(616,107): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+A:\FCFM\Graficas\PORTAFOLIO\Portafolgio-GraficasComputacionales1\CuboRubik\Ejemplo2\openglclass.cpp(626,36): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+A:\FCFM\Graficas\PORTAFOLIO\Portafolgio-GraficasComputacionales1\CuboRubik\Ejemplo2\openglclass.cpp(626,57): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+A:\FCFM\Graficas\PORTAFOLIO\Portafolgio-GraficasComputacionales1\CuboRubik\Ejemplo2\openglclass.cpp(626,83): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+A:\FCFM\Graficas\PORTAFOLIO\Portafolgio-GraficasComputacionales1\CuboRubik\Ejemplo2\openglclass.cpp(626,103): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
   systemclass.cpp
   textureclass.cpp
-D:\FCFM\GRAFICAS1\Ejemplo2\Ejemplo2\textureclass.cpp(69,66): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
-D:\FCFM\GRAFICAS1\Ejemplo2\Ejemplo2\textureclass.cpp(97,50): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+A:\FCFM\Graficas\PORTAFOLIO\Portafolgio-GraficasComputacionales1\CuboRubik\Ejemplo2\textureclass.cpp(69,66): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+A:\FCFM\Graficas\PORTAFOLIO\Portafolgio-GraficasComputacionales1\CuboRubik\Ejemplo2\textureclass.cpp(97,50): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
   textureshaderclass.cpp
   Generando código...
-  Ejemplo2.vcxproj -> D:\FCFM\GRAFICAS1\Ejemplo2\x64\Debug\Ejemplo2.exe
+  Ejemplo2.vcxproj -> A:\FCFM\Graficas\PORTAFOLIO\Portafolgio-GraficasComputacionales1\CuboRubik\x64\Debug\Ejemplo2.exe
